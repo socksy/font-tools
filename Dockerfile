@@ -7,3 +7,4 @@ RUN apt-get -y install awscli
 RUN apt-get -y install clojure
 RUN apt-get -y install curl
 RUN apt-get -y install unzip
+RUN apt-get -y install vim
